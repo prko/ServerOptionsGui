@@ -1,6 +1,6 @@
 class:: ServerOptionsGui
 summary:: A GUI to manage Server options
-related:: Server, ServerOptions
+related:: Classes/Server, Classes/ServerOptions
 categories::  Server
 
 Description::
